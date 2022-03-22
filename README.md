@@ -6,3 +6,4 @@ Some paper summary I wrote.
 - [Stylized Neural Painting](https://hackmd.io/@joycenerd/HyOEbpxWc) [CVPR 2021] [University of Michigan, Ann Arbor] 
 - [Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://hackmd.io/@joycenerd/SkZOSJBZc) [NeurIPS 2021] [University of Maryland]
 - [Masked Autoencoders Are Scalable Vision Learners](https://hackmd.io/@joycenerd/BytfqYhZq) [arXiv pre-print 2021] [Facebook AI Research]
+- [Boosting Contrastive Learning with Relation Knowledge Distillation](https://hackmd.io/@joycenerd/r1NVFfwM9) [AAAI 2022] [Megvii Technology] 
