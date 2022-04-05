@@ -7,3 +7,4 @@ Some paper summary I wrote.
 - [Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://hackmd.io/@joycenerd/SkZOSJBZc) [NeurIPS 2021] [University of Maryland]
 - [Masked Autoencoders Are Scalable Vision Learners](https://hackmd.io/@joycenerd/BytfqYhZq) [arXiv pre-print 2021] [Facebook AI Research]
 - [Boosting Contrastive Learning with Relation Knowledge Distillation](https://hackmd.io/@joycenerd/r1NVFfwM9) [AAAI 2022] [Megvii Technology] 
+- [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://hackmd.io/@joycenerd/S1IY-Qum5) [ICLR 2022] [Facebook AI Research]
