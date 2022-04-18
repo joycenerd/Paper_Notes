@@ -9,3 +9,4 @@ Some paper summary I wrote.
 - [Boosting Contrastive Learning with Relation Knowledge Distillation](https://hackmd.io/@joycenerd/r1NVFfwM9) [AAAI 2022] [Megvii Technology] 
 - [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://hackmd.io/@joycenerd/S1IY-Qum5) [ICLR 2022] [Facebook AI Research]
 - [iBOT: Image BERT Pre-Training with Online Tokenizer](https://hackmd.io/@joycenerd/S1Isq07Vq) [ICLR 2022] [ByteDance]
+- [Crafting Better Contrastive Views for Siamese Representation Learning](https://hackmd.io/@joycenerd/ryFWBrc49) [CVPR 2022 Oral] [National University of Singapore]
