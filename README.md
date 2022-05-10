@@ -10,3 +10,4 @@ Some paper summary I wrote.
 - [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://hackmd.io/@joycenerd/S1IY-Qum5) [ICLR 2022] [Facebook AI Research]
 - [iBOT: Image BERT Pre-Training with Online Tokenizer](https://hackmd.io/@joycenerd/S1Isq07Vq) [ICLR 2022] [ByteDance]
 - [Crafting Better Contrastive Views for Siamese Representation Learning](https://hackmd.io/@joycenerd/ryFWBrc49) [CVPR 2022 Oral] [National University of Singapore]
+- [HCSC: Hierarchical Contrastive Selective Coding](https://hackmd.io/@joycenerd/Hy_34BwU5) [CVPR 2022] [Shanghai Jiao Tong University]
