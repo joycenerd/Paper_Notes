@@ -12,6 +12,7 @@ Some paper summary I wrote.
 - [Crafting Better Contrastive Views for Siamese Representation Learning](https://hackmd.io/@joycenerd/ryFWBrc49) [CVPR 2022 Oral] [National University of Singapore]
 - [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis](https://hackmd.io/@joycenerd/HkXRbvUB9) [CVPR 2022] [Arizonal State University]
 - [HCSC: Hierarchical Contrastive Selective Coding](https://hackmd.io/@joycenerd/Hy_34BwU5) [CVPR 2022] [Shanghai Jiao Tong University]
+- [On the Importance of Asymmetry for Siamese Representation Learning](https://hackmd.io/@joycenerd/rkF5hAYvc) [CVPR2 2022] [Facebook AI Research]
 
 ## Representation Learning
 - [AlignMixup: Improvsing Representations By Interpolating Aligned Features](https://hackmd.io/@joycenerd/Sy2EybWr9) [CVP2 2022] [CNRS IRISA]
