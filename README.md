@@ -10,6 +10,7 @@ Some paper summary I wrote.
 - [HCSC: Hierarchical Contrastive Selective Coding](https://hackmd.io/@joycenerd/Hy_34BwU5)
 - [On the Importance of Asymmetry for Siamese Representation Learning](https://hackmd.io/@joycenerd/rkF5hAYvc)
 - [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://hackmd.io/@joycenerd/SkWwgLvO5)
+- [DATA: Domain-Aware and Task-Aware Self-supervised Learning](https://hackmd.io/@joycenerd/BJqLairKq)
 
 ### ICLR 2022
 - [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://hackmd.io/@joycenerd/S1IY-Qum5)
