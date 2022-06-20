@@ -21,6 +21,9 @@ Some paper summary I wrote.
 - [Robust Contrastive Learning Using Negative Samples with Diminished Semantics](https://hackmd.io/@joycenerd/SkZOSJBZc)
 - [Intermediate Layers Matter in Momentum Contrastive Self Supervised Learning](https://lapis-hedge-1fd.notion.site/Intermediate-Layers-Matter-in-Momentum-Contrastive-Self-Supervised-Learning-bc8c6f8c188640a5bee5ef759d4d1576)
 
+### CVPR 2020
+- [Momentum Contrast for Unsupervised Visual Representation Learning](https://hackmd.io/@joycenerd/B1w6Q8pYq)
+
 ### CVPR 2021
 - [Stylized Neural Painting](https://hackmd.io/@joycenerd/HyOEbpxWc)
 
