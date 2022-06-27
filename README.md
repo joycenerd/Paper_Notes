@@ -1,7 +1,7 @@
 # Paper_Notes
 Some paper summary I wrote.
 
-## self-supervised learning
+## Self-supervised Learning
 
 ### CVPR 2022
 - [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://hackmd.io/@joycenerd/SkZbnAZdc)
@@ -26,10 +26,10 @@ Some paper summary I wrote.
 ### CVPR 2020
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://hackmd.io/@joycenerd/B1w6Q8pYq)
 
-### CVPR 2021
-- [Stylized Neural Painting](https://hackmd.io/@joycenerd/HyOEbpxWc)
+### arXiv 2022
+- [Masked Siamese ConvNets](https://drive.google.com/file/d/1s_JaunzUSoniUjmC_wyx2JZtfDqOkM5W/view?usp=sharing)
 
-### arXiv pre-print 2021 
+### arXiv  2021 
 - [Masked Autoencoders Are Scalable Vision Learners](https://hackmd.io/@joycenerd/BytfqYhZq)
  
 
