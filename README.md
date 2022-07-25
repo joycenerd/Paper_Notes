@@ -3,6 +3,9 @@ Some paper summary I wrote.
 
 ## Self-supervised Learning
 
+### ECCV 2022
+- [Masked Siamese Networks for Label-Efficient Learning](https://hackmd.io/@joycenerd/BJqSXnsnq)
+
 ### CVPR 2022
 - [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://hackmd.io/@joycenerd/SkZbnAZdc)
 - [Crafting Better Contrastive Views for Siamese Representation Learning](https://hackmd.io/@joycenerd/ryFWBrc49) 
